@@ -1,0 +1,8 @@
+# MAIN
+MAIN	= mymain.cpp
+# end MAIN
+
+# SRCS
+SRCS		=\
+${MAIN}
+# end SRCS
